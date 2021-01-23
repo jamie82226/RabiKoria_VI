@@ -1,6 +1,6 @@
 body, html {
-/*  overflow-y:hidden;
-*/  background:  white;
+/*  overflow-y:hidden;*/  
+background:  white;
 font-family: 'Tajawal', sans-serif;
   cursor: default;
 }
@@ -8,7 +8,7 @@ font-family: 'Tajawal', sans-serif;
 
 
 
-.bio {
+.home {
   background-color: white;
 font-family: 'Tajawal', sans-serif;
   border:none;
@@ -19,7 +19,7 @@ font-family: 'Tajawal', sans-serif;
   position:absolute;
 }
 
-.bio:hover  {
+.home:hover  {
  color:#A7A9AC;
 }
 
@@ -145,7 +145,7 @@ font-family: 'Tajawal', sans-serif;
 
 
 
-/*bio*/
+/*bio page*/
 #rabi{
 width: 30vmin;
 height: auto;
